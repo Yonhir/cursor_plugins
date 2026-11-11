@@ -1,16 +1,16 @@
 {
   "name": "thermos",
   "displayName": "Thermos",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Thermo-nuclear branch review: deep correctness and security audits plus harsh code-quality rubrics, parallel subagents, and thermos orchestration.",
   "author": {
     "name": "Cursor",
     "email": "plugins@cursor.com"
   },
-  "homepage": "https://github.com/cursor/plugins",
-  "repository": "https://github.com/cursor/plugins",
+  "homepage": "https://github.com/Yonhir/cursor_plugins/tree/main/thermos",
+  "repository": "https://github.com/Yonhir/cursor_plugins",
   "license": "MIT",
-  "logo": "assets/logo.png",
+  "icon": "./assets/logo.png",
   "keywords": [
     "thermos",
     "thermo-nuclear",
@@ -19,14 +19,5 @@
     "code-quality",
     "security-review",
     "subagents"
-  ],
-  "category": "developer-tools",
-  "tags": [
-    "review",
-    "quality",
-    "shipping",
-    "automation"
-  ],
-  "skills": "./skills/",
-  "agents": "./agents/"
+  ]
 }

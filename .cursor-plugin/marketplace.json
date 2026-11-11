@@ -24,11 +24,6 @@
       "description": "Internal team workflows for CI, code review, shipping, local automation, and verification."
     },
     {
-      "name": "thermos",
-      "source": "thermos",
-      "description": "Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, and thermos orchestration."
-    },
-    {
       "name": "create-plugin",
       "source": "create-plugin",
       "description": "Scaffold and validate new agent plugins."
