@@ -26,7 +26,7 @@
     {
       "name": "thermos",
       "source": "thermos",
-      "description": "Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, thermos orchestration, and optional merge-ready PR flows."
+      "description": "Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, and thermos orchestration."
     },
     {
       "name": "create-plugin",
