@@ -11,6 +11,11 @@
       "description": "Skills for building on the Cursor Origin API. Fetch the live spec first, then follow the Origin rules for credentials, scopes, webhooks, paging, and errors. Includes a skill that plans the port of an existing GitHub App."
     },
     {
+      "name": "thermos",
+      "source": "./thermos",
+      "description": "Thermo-nuclear branch review: deep correctness and security audits plus harsh code-quality rubrics, parallel subagents, and thermos orchestration."
+    },
+    {
       "name": "pstack",
       "source": "./harness/pstack/claude-code",
       "description": "if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence."
