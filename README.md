@@ -1,5 +1,17 @@
 # Cursor plugins
 
+> [!NOTE]
+> This repository is a fork of [cursor/plugins](https://github.com/cursor/plugins), adapted for [Claude Code](https://code.claude.com/docs/en/plugins). Plugins are converted one at a time into Claude Code-only plugins: each gets a `.claude-plugin/plugin.json` manifest and an entry in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json), and leaves the Cursor marketplace below.
+>
+> Converted so far: [`thermos`](thermos/). To install a converted plugin in Claude Code:
+>
+> ```text
+> /plugin marketplace add Yonhir/cursor_plugins
+> /plugin install <plugin>@cursor-plugins
+> ```
+>
+> The rest of this README describes the original Cursor plugins that haven't been converted yet.
+
 Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest.
 
 ## Plugins
